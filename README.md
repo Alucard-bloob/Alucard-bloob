@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alucard-bloob/gif/main/lain.gif" width="320" alt="Lain GIF">
 </p>
-
-Uma animação mostrando Lain do repositório "gif".
 <!--
 **Alucard-bloob/Alucard-bloob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
