@@ -1,5 +1,3 @@
-# Olá 👋
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Alucard-bloob/gif/main/lain.gif" width="320" alt="Lain GIF">
 </p>
